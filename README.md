@@ -8,3 +8,10 @@ These codes are created for practise while doing the course. All codes are devel
 This Course is basically the starting block of Matplotlib and Data Visualization.
 
 {PlayGround codes are different samples that I tried or learned from other resources}
+
+## 01_Matplotlib_Basics
+* Dot Plot
+  - Single Point
+  - Multiple Point
+* Modifying Axis Length
+* Identify All Child Objects under Axis
