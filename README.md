@@ -15,3 +15,11 @@ This Course is basically the starting block of Matplotlib and Data Visualization
   - Multiple Point
 * Modifying Axis Length
 * Identify All Child Objects under Axis
+
+## 02_Matplotlib_Scatter
+* Simple Scatter Plot
+* Different Colors and Point Size
+* Plot Same Column but Different Colors
+* Add Label, Legend, and Title
+* Access Children Objects
+* Use Children Objects
